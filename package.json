@@ -1,0 +1,25 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to create a battleship game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkenton21/battleship.git"
+  },
+  "keywords": [],
+  "author": "jkenton21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkenton21/battleship/issues"
+  },
+  "homepage": "https://github.com/jkenton21/battleship#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
